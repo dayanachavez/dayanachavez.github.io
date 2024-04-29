@@ -1,0 +1,65 @@
+header {
+    background-color: #008F7C; /* Color de fondo verde */
+    padding: 20px 0; /* Añade espacio interno alrededor del contenido */
+}
+
+img {
+    max-width: 80px; /* Tamaño máximo de la imagen */
+}
+
+.logo{
+    text-align: right;
+    margin-right: 3%;
+}
+
+h1{
+    color: #008F7C;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    text-decoration: underline;
+}
+
+.eslogan{
+    color: #008F7C;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.Descripcion{
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.local{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    max-width: 450px;
+}
+
+.productos{
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    max-width: 450px;
+}
+
+.container {
+    text-align: center;
+}
+
+.instagram {
+    display: inline-block;
+    background-color: #008F7C;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.instagram:hover {
+    background-color: #008F7C;
+}
